@@ -32,7 +32,7 @@ A basic fungible token written in Solidity, deployed on testnet.
 ### 🔷 [NFT Minting DApp](https://github.com/Faridhusain21/nft-dapp)  
 A simple frontend + smart contract combo for minting NFTs.
 
-### 🔷 [Project UI/UX Designer](https://faridhusain.framer.ai/)  
+### 🔷 [Project UI/UX Designer](https://faridhusain.framer.ai/project)
 the result of my project working for two years in UI/UX Designer and Web 3 Designer.
 
 ---
